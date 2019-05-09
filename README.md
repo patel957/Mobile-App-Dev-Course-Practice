@@ -1,1 +1,1 @@
-# Mobile App Dev Course Practice
+# Practice files for Mobile App Dev Course
